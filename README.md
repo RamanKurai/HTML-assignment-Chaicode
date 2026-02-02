@@ -33,8 +33,9 @@ This is a simple portfolio website created using pure HTML.
 2. Open the `index.html` file in any web browser.
 
 ## Here is the screenshot of the live server 
-![Portfolio Preview](images/images1.png)
+![Portfolio Preview](images/image1.png)
 ![Portfolio Preview](images/image.png)
+
 
 
 
